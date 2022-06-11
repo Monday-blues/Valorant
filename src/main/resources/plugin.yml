@@ -1,0 +1,6 @@
+name: VALORANT
+version: '${version}'
+main: valorant.valorant.VALORANT
+api-version: 1.18
+commands:
+  gunmaker:
